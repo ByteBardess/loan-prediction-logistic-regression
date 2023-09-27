@@ -51,13 +51,18 @@ ROC AUC: **0.86**
 
 **Visualizations:
 **
+
+
 ![image](https://github.com/cipherchawla/loan-prediction-logistic-regression/assets/146151444/fae1c00a-afc4-44de-9f68-15625c84b15a)
+
 ROC AUC curve
 
 ![image](https://github.com/cipherchawla/loan-prediction-logistic-regression/assets/146151444/0ef8b311-1070-45fd-b174-2e99ce807e8c)
+
 The confusion matrix 
 
 ![image](https://github.com/cipherchawla/loan-prediction-logistic-regression/assets/146151444/a8b6bd24-bc5a-499a-ade5-1cf13cdc7ba3)
+
 Histogram for predicted possibilities 
 
 **Code:**
