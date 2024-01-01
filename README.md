@@ -9,8 +9,8 @@ various demographic and banking-related features.
 **Project Description:
 **In this project, I used logistic regression to predict whether customers would take a loan or not based on a dataset from a banking institution. The objective was to develop a model that could assist in identifying potential loan takers, helping the bank optimize its marketing efforts.
 
-**Data Description:
-**The dataset consists of 21 columns and 41,196 rows, with a mix of numeric and categorical features. Here's a brief overview of the dataset columns:
+**Data Description:**
+The dataset consists of 21 columns and 41,196 rows, with a mix of numeric and categorical features. Here's a brief overview of the dataset columns:
 
 age: Age of the customer (numeric).
 job: Type of job (categorical).
@@ -34,23 +34,20 @@ euribor3m: Euribor 3-month rate (numeric).
 nr.employed: Number of employees (numeric).
 y: Whether the customer subscribed to a term deposit (binary: 'yes', 'no').
 
-**Methodology:
-**
+**Methodology:**
 
   **Data Preprocessing:** Handled missing values and encoded categorical variables.
   **Feature Engineering:** Selected relevant features and transformed data as needed.
   **Logistic Regression Model:** Built a logistic regression model to predict loan subscription.
   **Model Evaluation:** Assessed the model's performance using metrics like accuracy, precision, recall, and ROC AUC.
  
-**Results:
-**
+**Results:**
 The logistic regression model achieved an accuracy of [accuracy_score].
 Precision: **92.8%**
 Recall: **99.4%**
 ROC AUC: **0.86**
 
-**Visualizations:
-**
+**Visualizations:**
 
 
 ![image](https://github.com/cipherchawla/loan-prediction-logistic-regression/assets/146151444/fae1c00a-afc4-44de-9f68-15625c84b15a)
