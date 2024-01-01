@@ -6,8 +6,7 @@ various demographic and banking-related features.
 
 **Project Title:** Predicting Loan Approval Using Logistic Regression
 
-**Project Description:
-**In this project, I used logistic regression to predict whether customers would take a loan or not based on a dataset from a banking institution. The objective was to develop a model that could assist in identifying potential loan takers, helping the bank optimize its marketing efforts.
+**Project Description:** In this project, I used logistic regression to predict whether customers would take a loan or not based on a dataset from a banking institution. The objective was to develop a model that could assist in identifying potential loan takers, helping the bank optimize its marketing efforts.
 
 **Data Description:**
 The dataset consists of 21 columns and 41,196 rows, with a mix of numeric and categorical features. Here's a brief overview of the dataset columns:
